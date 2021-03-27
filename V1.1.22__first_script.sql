@@ -1,2 +1,4 @@
-
-select * from "COVIDINDIA"."PUBLIC"."VACCINES_STATEWISE"
+create table "COVIDINDIA"."PUBLIC"."List"(
+  name char(20),
+  age int
+  );
