@@ -1,0 +1,2 @@
+
+select * from "COVIDINDIA"."PUBLIC"."VACCINES_STATEWISE"
